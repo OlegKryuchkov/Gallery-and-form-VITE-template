@@ -1,13 +1,12 @@
 {
   "name": "vanilla-app-template",
-  "homepage": "https://OlegKryuchkov.github.io/Gallery-and-form-VITE-template/",
+  // "homepage": "https://OlegKryuchkov.github.io/Gallery-and-form-VITE-template/",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    // "build": "vite build --base=/OlegKryuchkov/",
-    "build": "vite build",
+    "build": "vite build --base=/<OlegKryuchkov>/",
     "preview": "vite preview"
   },
   "devDependencies": {
