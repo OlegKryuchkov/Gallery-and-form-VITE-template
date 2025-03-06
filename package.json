@@ -1,6 +1,5 @@
 {
   "name": "vanilla-app-template",
-  // "homepage": "https://OlegKryuchkov.github.io/Gallery-and-form-VITE-template/",
   "private": true,
   "version": "1.0.0",
   "type": "module",
